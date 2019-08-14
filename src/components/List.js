@@ -114,14 +114,14 @@ class List extends Component {
                     disabled={this.state.editDisabled}
                     onClick={this.onEdit.bind(this, item.HotDogName, item.id)}
                   >
-                    To edit a hot dog
+                   EDIT
                   </button>
                   <button
                     href=""
                     className="btn btn-danger"
                     onClick={this.onDelete.bind(this, item.id)}
                   >
-                    To delete a hot dog
+                    DELETE
                   </button>
                 </td>
               </tr>

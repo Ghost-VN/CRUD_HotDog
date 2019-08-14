@@ -3,5 +3,5 @@ import styled from 'styled-components';
 export default styled.div`
      display: flex;
      background-color: yellow;
- 	margin: auto 0;
+ 	 margin: auto 0;
 `;
