@@ -11,6 +11,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yurii Bondar",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Ghost-VN/CRUD_HotDog.git"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
@@ -25,5 +29,5 @@
     "react-scripts": "1.1.4",
     "sequelize": "^4.39.0"
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "http://localhost:5000",
 }
