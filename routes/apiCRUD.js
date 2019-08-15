@@ -24,7 +24,7 @@ router.get('/api/hotdog/:id', async ctx => {
       if (hotdog) {
         ctx.body = hotdog
       } else {
-        ctx.body = 'Hotdog does not exist'
+        ctx.body = 'HotDog does not exist'
       }
     })
     .catch(err => {
@@ -88,3 +88,5 @@ router.put('/api/hotdog/:id', async ctx => {
 })
 
 module.exports = router
+
+
