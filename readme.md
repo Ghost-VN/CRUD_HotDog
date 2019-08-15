@@ -1,4 +1,4 @@
-- make import dump-file from './CRUD_HotDog/database/dump.sql' to 
+- make import dump-file from './CRUD_HotDog/database/dump.sql' 
 - cd ./CRUD_HotDog
 - npm run dev (start server part)
 - open new window in terminal 
