@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "crud_hot_dog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test task for ElifTech",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
@@ -10,7 +10,7 @@
     "eject": "react-scripts eject",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Yurii Bondar",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
