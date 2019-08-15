@@ -20,7 +20,8 @@ class List extends Component {
   }
 
   onChange = event => {
-    this.setState({ term: event.target.value, editDisabled: 'disabled' })
+    this.setState({ term: event.target.value, 
+                    editDisabled: 'disabled' })
   }
 
   getAll = () => {
