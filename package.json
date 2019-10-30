@@ -28,7 +28,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.4",
-    "sequelize": "^4.39.0"
+    "sequelize": "^5.15.1"
   },
   "proxy": "http://localhost:5000"
 }
