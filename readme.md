@@ -1,7 +1,7 @@
 ## Repository cloning
 
 ```bash
-- git clone https://github.com/Ghost-VN/CRUD_HotDog.git
+git clone https://github.com/Ghost-VN/CRUD_HotDog.git
 ```
 
 ## Pre-launch settings
